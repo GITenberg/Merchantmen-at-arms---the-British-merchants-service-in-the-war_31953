@@ -1,0 +1,38 @@
+_repo: Merchantmen-at-arms---the-British-merchants-service-in-the-war_31953
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Bone, Muirhead, Sir
+    alias: Bone, Sir Muirhead
+    birthdate: 1876
+    deathdate: 1953
+    gutenberg_agent_id: '35570'
+    url: http://www.gutenberg.org/2009/agents/35570
+    wikipedia: http://en.wikipedia.org/wiki/Muirhead_Bone
+covers:
+- cover_type: archival
+  image_path: 31953-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Bone, David W. (David William)
+    alias: Bone, David William, Sir
+    birthdate: 1874
+    deathdate: 1959
+    gutenberg_agent_id: '35272'
+    url: http://www.gutenberg.org/2009/agents/35272
+description: ''
+gutenberg_issued: '2010-04-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31953'
+  lccn: '19019872'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Merchant marine -- Great Britain'
+- !lcsh 'World War, 1914-1918 -- Naval operations'
+- !lcc 'D501'
+title: 'Merchantmen-at-arms : the British merchants'' service in the war'
+url: http://www.gutenberg.org/ebooks/31953
